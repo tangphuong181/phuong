@@ -44,3 +44,7 @@ spring.thymeleaf.cache=false
 ### About Me
  Hi, I'm Phuong (Tang Phuong) — a passionate Java Backend Developer from Vietnam.I specialize in developing web applications using Spring Boot framework, Spring Security, and SQL Server. This project was built to practice and master user authentication flow in Spring Boot
 
+ ### Connect with me:
+- Email: [tangphuong181@gmail.com](mailto:tangphuong181@gmail.com)
+- GitHub: [@tangphuong181](https://github.com/tangphuong181)
+
